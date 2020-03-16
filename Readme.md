@@ -1,2 +1,2 @@
 test dude
-this github for testing some project about petroleum engineering
+this github for testing some code project about petroleum engineering
